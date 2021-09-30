@@ -22,6 +22,7 @@ You may find xdotool in your distribution packaging:
 * FreeBSD: `pkg install xdotool`
 * OSX: `brew install xdotool`
 * OpenSUSE: `zypper install xdotool`
+* Arch Linux: `pacman -S xdotool`
 
 ## Basic Usage
 
